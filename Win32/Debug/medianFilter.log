@@ -1,0 +1,16 @@
+﻿  Generate moc_predefs.h
+  Uic'ing mainwindow.ui...
+  Moc'ing mainwindow.h...
+  Moc'ing medianfilter.h...
+cl : Command line warning D9002: ignoring unknown option '-Zc:__cplusplus'
+cl : Command line warning D9002: ignoring unknown option '-Zc:__cplusplus'
+  main.cpp
+cl : Command line warning D9002: ignoring unknown option '-Zc:__cplusplus'
+  mainwindow.cpp
+cl : Command line warning D9002: ignoring unknown option '-Zc:__cplusplus'
+  medianfilter.cpp
+cl : Command line warning D9002: ignoring unknown option '-Zc:__cplusplus'
+  moc_mainwindow.cpp
+  moc_medianfilter.cpp
+  medianFilter.vcxproj -> C:\Users\axsal\Desktop\medianFilter-master\debug\medianFilter.exe
+  medianFilter.vcxproj -> debug\medianFilter.pdb (Full PDB)
